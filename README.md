@@ -1,1 +1,1 @@
-This are the python projects game.
+These are the python projects game.
